@@ -13,4 +13,3 @@ $(document).ready(function() {
     $("ul#user").prepend("<li>Stahp copying me!</li>");
     $("ul#webpage").prepend("<li>Pardon me. I meant no offense.</li>");
   });
-});
